@@ -1,0 +1,1629 @@
+{
+  "company": {
+    "name": "上虞市百乐园林工程有限公司",
+    "address": "上虞市亚厦·阳光假日17幢1单元902",
+    "phone": ["13967526622", "18967590205"],
+    "email": "787969084@qq.com",
+    "qq": "787969084",
+    "fax": "0551-65322663",
+    "shop": "上虞市花鸟市场5-6店面",
+    "infos": ["高品质绿化环境免费系统规划","承诺提供客户满意的绿化方案","专业的园林绿化设计"]
+  },
+  "home": {
+    "banner": ["http://www.syblyl.com/assets/banner1.jpg","http://www.syblyl.com/assets/banner2.jpg"]
+  },
+  "plants": [
+    {
+      "name": "澳洲杉",
+      "type":1,
+      "price": 159,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "澳洲杉，常绿乔木，一般盆栽为幼树，高在2米以下。喜温暖、潮湿的环境，树冠尖塔形，深绿色。茎干直立，侧枝轮生，水平伸展。小枝二列互生，水平延伸或略下垂。叶有二型。球果近圆形。",
+      "info": "澳洲杉是世界上三大观赏树木之一。澳洲杉既不怕光强，也能承受低光照，生命力十分顽强，既喜湿，也耐干旱，四季常绿，只要保持零度以上就能够越冬，也不长虫子，而且还是净化空气的高手之一，很适合在光线不足的室内长期养护。平时浇些水，干湿不限，可省去不少侍候时间。盆栽时，以园土、腐叶土、泥炭苔混合配制而成的基质为好。盆栽多用小苗，并应根据苗的大小选择相宜的花盆。",
+      "pic":["http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"]
+    },
+    {
+      "name": "巴西木",
+      "type":1,
+      "price": 168,
+      "place": "客厅 办公室 卧室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "巴西木，是龙舌兰科常绿乔木。高6米以上，有分枝；叶簇生于茎顶，弯曲呈弓形，鲜绿色有光泽。花小不显著，芳香，是有名的新一代室内观叶植物。株形优美、规整，稍耐阴。喜高温，低于13℃则植株休眠，停止生长。喜疏松、排水良好的土壤；用腐叶土或泥炭土盆栽。扦插繁殖；大批插条均从国外进口。扦插温度要求较高。喜半阴阳光和充足的肥料。",
+      "info": "巴西木是颇为流行的室内大型盆栽花木，尤其在较宽阔的客厅、书房、起居室内摆放，格调高雅、质朴，并带有南国情调。是一种株形优美、规整、世界著名的新一代室内观叶植物。",
+      "pic":["http://www.syblyl.com/assets/plants/large/baximu.jpg"]
+    },
+    {
+      "name": "大叶榕",
+      "type":1,
+      "price": 155,
+      "place": "庭院 顶楼 街道 走廊 阳台",
+      "function": "净化空气 美观",
+      "desc": "高山榕（学名：Ficus altissima）属桑科，榕属，大乔木，高25-30米，胸径40-90厘米；树皮灰色，平滑；幼枝绿色，粗约10毫米，被微柔毛。",
+      "info": "高山榕树冠大；叶厚革质，有光泽；隐头花序形成的果成熟时金黄色。极好的城市绿化树种。树冠广阔，树姿稳键壮观。只是树体量太大，根系过于发达不太适宜作路树。非常适合用作园景树和遮荫树。又为优良的紫胶虫寄主树。适应性强。极耐荫，适合在室内长期陈设。江南常做行道树及孤植树。",
+      "pic":["http://www.syblyl.com/assets/plants/large/dayerong.jpg"]
+    },
+    {
+      "name": "滴水观音",
+      "type":1,
+      "price": 136,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼 街道",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "大型常绿草本植物，具匍匐根茎，有直立的地上茎，随植株的年龄和人类活动干扰的程度不同，茎高有不到10厘米的，也有高达3-5米的，粗10-30厘米，基部长出不定芽条。产中国华南、西南及台湾，东南亚也有分布。喜温暖、潮湿和半阴环境。生长适温20～25℃，越冬温度10～15℃。夏季盆栽需遮半阴。用一般园土加泥炭土、砂或草皮土和腐叶土栽培。用分株、扦插和播种法繁殖。",
+      "info": "滴水观音是大型观叶植物，宜用大盆或木桶栽培，适于布置大型厅堂或室内花园，也可栽于热带植物温室，十分壮观。滴水观音维持二氧化碳与氧气的平衡，改善小气候，减弱噪音，涵养水源，调节湿度；除此之外，还有吸收粉尘、净化空气等功能，应用滴水观音进行园林绿化，能起到植物造景和保护生态环境的完美结合。",
+      "pic":["http://www.syblyl.com/assets/plants/large/dishuiguanyin.jpg"]
+    },
+    {
+      "name": "发财树",
+      "type":1,
+      "price": 288,
+      "place": "客厅 办公室 接待前台",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "小乔木，高4-5米，树冠较松散，幼枝栗褐色，无毛。小叶具短柄或近无柄。花单生枝顶叶腋；花梗粗壮，被黄色星状茸毛，脱落；萼杯状，近革质；花瓣淡黄绿色，狭披针形至线形，上半部反卷；雄蕊管较短，花丝连雄蕊管长13-15厘米，下部黄色，向上变红色，花药狭线形，弧曲；花柱长于雄蕊，深红色。蒴果近梨形，果皮厚，木质，几黄褐色，外面无毛，内面密被长绵毛，开裂，每室种子多数。种子大，不规则的梯状楔形，表皮暗褐色，有白色螺纹，内含多胚。花期5-11月，果先后成熟，种子落地后自然萌发。",
+      "info": "瓜栗株形美观，茎干叶片全年青翠，是十分流行的室内观叶植物，幼苗枝条柔软，耐修剪，可加工成各种艺术造型的桩景和盆景。在南方常作行道树和风景树。原产中美墨西哥至哥斯达黎加。中国云南西双版纳栽培。果皮未熟时可食，种子可炒食。",
+      "pic":["http://www.syblyl.com/assets/plants/large/facaishu.jpg"]
+    },
+    {
+      "name": "非洲茉莉",
+      "type":1,
+      "price": 55,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼 街道",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "常绿蔓性藤本，茎长可达4公尺，叶对生，长15公分，广卵形、长椭圆形，先端突尖，厚革质，全缘，表面暗绿色，夏季开花，伞房状集伞花序，腋生，萼片5裂，花冠高脚碟状，先端5裂，裂片卵圆状长椭圆形，花冠筒长6公分象牙白，蜡质，浓郁芳香，蓇葖果椭圆形，大如土芒果，种子顶端具白绢质种毛。",
+      "info": "非洲茉莉容易适应陌生的环境，在庭院中、阳台上都能种植。非洲茉莉枝条色若翡翠、叶片油光闪亮、花朵略带芳香，花形优雅，每朵五瓣，呈伞状，簇生于花枝顶端。花期很长，冬夏都开，以春夏开得最为灿烂。清晨或黄昏，若有若无的淡淡幽香，沁人心脾。",
+      "pic":["http://www.syblyl.com/assets/plants/large/feizhoumoli.jpg"]
+    },
+    {
+      "name": "富贵竹笼",
+      "type":1,
+      "price": 218,
+      "place": "卫生间 卧室 客厅 办公室 接待前台",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "一种室内观赏植物，百合科龙血树属，常绿直立灌木，高1米左右，叶形似柳叶。 又称叶仙龙血树、万年竹。属室内阴生观赏植物，其叶色全绿，青翠迎人，富贵典雅、青翠欲滴，生机勃勃。宜摆放富贵竹茎叶纤秀，柔美优雅，姿态潇洒，富有竹韵，观赏价值很高。",
+      "info": "具有消毒功能，可以有效吸收废气，制造氧气，改善空气质量，尤其适合放在卧室或者不经常开窗的房间里，如卫生间。富贵竹的叶片翠绿，茎秆笔直，圆形似竹。叶卵形先端尖，叶柄基部抱茎。它是极耐阴植物，在弱光照的条件下，仍然生长良好，挺拔强壮。可以长期摆放在室内观叶，不需要特别养护，只要有足够的水分，就能旺盛生长。故深受大家的青睐。",
+      "pic":["http://www.syblyl.com/assets/plants/large/fuguizhulong.jpg"]
+    },
+    {
+      "name": "红豆杉",
+      "type":1,
+      "price": 88,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "植物均为常绿乔木或灌木，雌雄异株、异花授粉。球花小，单生于叶腋内，早春开放。",
+      "info": "叶常绿，深绿色，假种皮肉质红色，颇为美观，是优良的观赏灌木，可作庭园置景树。并经常用于圣诞花环。",
+      "pic":["http://www.syblyl.com/assets/plants/large/hongdoushan.jpg"]
+    },
+    {
+      "name": "金钱树",
+      "type":1,
+      "price": 88,
+      "place": "客厅 办公室 卧室 接待前台 阳台",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "植株的每一枚偶数羽状复叶都呈叶轴基部硕壮的状态，仿佛是挺起的佛肚。叶轴的中上部则呈圆柱形，上有不规则的暗褐色斑纹，宛若外被一层迷彩衣。其复叶上的椭圆形或卵圆形小叶，质地厚实，叶色浓绿，在阳光下仿佛涂上一层闪闪发光的釉彩。如果将数株合栽于一个精致的青花瓷盆中，则有一种蓬勃向上的生机、葱翠欲滴的活力，观赏价值高。",
+      "info": "室内观叶植物，有净化室内空气之用。其新抽的羽状复叶几乎每次都是2枚，一长一短、一粗一细，故又有“龙凤木”之别称，并象征寓意：招财进宝、荣华富贵。可以通过光合作用吸收毒气释放氧气，带来新鲜的空气。在白天的时候，它可以吸收房间的二氧化碳，同时放出氧气，让室内的空气中负离子浓度增加，甚至可以吸纳连吸尘器也难以吸到的灰尘。而更重要的是，它还可以吸收甲醛、苯系物等有害气体，杀灭空气中的细菌。在这个过程中有效地净化空气，增加空间中的绿色气氛，让人心旷神怡。",
+      "pic":["http://www.syblyl.com/assets/plants/large/jinqianshu.jpg"]
+    },
+    {
+      "name": "南洋杉",
+      "type":1,
+      "price": 155,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 街道",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "乔木，在原产地高达60～70米，胸径达1米以上，树皮灰褐色或暗灰色，粗，横裂；大枝平展或斜伸，幼树冠尖塔形，老则成平顶状，侧身小枝密生，下垂，近羽状排列。南洋杉不耐寒，忌干旱，冬季需充足阳光。",
+      "info": "南洋杉树形高大，姿态优美，它和雪松、日本金松、北美红杉、金钱松被称为是世界5大公园树种。宜独植作为园景树或作纪念树，亦可作行道树。但以选无强风地点为宜，以免树冠偏斜。南洋杉又是珍贵的室内盆栽装饰树种。南洋杉树形为尖塔形，枝叶茂盛，叶片呈三角形或卵形，为世界著名的庭园树之一；幼苗盆栽适用于一般家庭的客厅、走廊、书房的点缀；也可用于布置各种形式的会场、展览厅；还可作为馈赠亲朋好友开业、乔迁之喜的礼物。",
+      "pic":["http://www.syblyl.com/assets/plants/large/nanyangshan.jpg"]
+    },
+    {
+      "name": "平安树",
+      "type":1,
+      "price": 156,
+      "place": "客厅 办公室 走廊 接待前台 ",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "常绿乔木，高约15米，叶、枝及树皮干时几不具芳香气。枝条及小枝褐色，叶片硕大，表面亮绿色，有金属光泽，离基三出脉，网脉两面明显。花期6月至7月，果期8-9月。",
+      "info": "平安树意寓祈求平安、合家幸福、万事如意等美好的祝愿。",
+      "pic":["http://www.syblyl.com/assets/plants/large/pinganshu.jpg"]
+    },
+    {
+      "name": "青苹果",
+      "type":1,
+      "price": 176,
+      "place": "客厅 书房 卧室 办公室 大厅 会议室 商场 走廊 接待前台",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "多年常绿的草本植物，根出叶，丛生状，植株高大，可达70厘米。叶柄为浅褐紫色，叶片圆形或近圆形，中肋银灰色，花序穗状。",
+      "info": "青苹果竹芋，叶形浑圆、叶质丰腴、叶色青翠，其上排列有整齐的条纹，具有极高的观赏价值，更兼之比较喜阴，适于较长时间在室内作盆栽观赏。由于其叶片硕大、株形旺盛，将其栽植于大型广口花盆中，可用于布置商场、宾馆、会议室、会客厅等大型公共场所。用中小型精致陶瓷盆栽种，则适于作一般居家的客厅、书房、卧室摆设。",
+      "pic":["http://www.syblyl.com/assets/plants/large/qingpingguo.jpg"]
+    },
+    {
+      "name": "散尾葵",
+      "type":1,
+      "price": 288,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观 保持湿度",
+      "desc": "棕榈科、散尾葵属丛生常绿灌木或小乔木。茎干光滑，黄绿色，无毛刺，嫩时披蜡粉，上有明显叶痕，纹状呈环。叶面滑细长，羽状全裂，长40～150cm，叶柄稍弯曲，先端柔软。",
+      "info": "散尾葵是小型的棕榈植物，耐阴性强。在家居中摆放散尾葵，能够有效去除空气中的苯、三氯乙烯、甲醛等有挥发性的有害物质。散尾葵与滴水观音一样，具有蒸发水气的功能，如果在家居种植一棵散尾葵，能够将室内的湿度保持在40%-60%，特别是冬季，室内湿度较低时，能有效提高室内湿度。在热带地区的庭院中，多作观赏树栽种于草地、树荫、宅旁；北方地区主要用于盆栽，是布置客厅、餐厅、会议室、家庭居室、书房、卧室或阳台的高档盆栽观叶植物。在明亮的室内可以较长时间摆放观赏；在较阴暗的房间也可连续观赏4-6周。散尾葵生长很慢，一般多作中、小盆栽植。",
+      "pic":["http://www.syblyl.com/assets/plants/large/sanweikui.jpg"]
+    },
+    {
+      "name": "天堂鸟",
+      "type":1,
+      "price": 226,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "四季常青，植株别致，具清晰、高雅之感。花期可达100天左右，每朵花可开13-15天，1朵花谢，另1朵相继而开。",
+      "info": "切花瓶插可达15-20天之久，插花多用自然式插花，将2支天堂鸟高低搭配，在其他花配叶的衬托下，相偎相依，似一对热恋中的情侣在互诉衷肠，是室内观赏的佳品。在中国南方地区如福建、广东、海南、广西、香港和澳门等地，天堂鸟可丛植于院角，用于庭院造景和花坛、花境的点缀。",
+      "pic":["http://www.syblyl.com/assets/plants/large/tiantangniao.jpg"]
+    },
+    {
+      "name": "夏威夷竹",
+      "type":1,
+      "price": 198,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "保湿 吸甲醛 净化空气 美观",
+      "desc": "夏威夷椰子茎干直立，株高1－3米。茎节短，中空， 从地下匍匐茎发新芽而抽长新枝，呈丛生状生长，不分枝。叶多着生茎干中上部，为羽状全裂，裂片披针形，互生，叶深绿色，且有光泽。",
+      "info": "夏威夷椰子能使室内湿度保持在40%～60%的状态。同时还具有去除苯、三氯乙烯、甲醛等挥发性有机物质的功效。可放置在装修后的房间。",
+      "pic":["http://www.syblyl.com/assets/plants/large/xiaweiyizhu.jpg"]
+    },
+    {
+      "name": "橡皮树",
+      "type":1,
+      "price": 155,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/large/xiangpishu.jpg"]
+    },
+    {
+      "name": "幸福树",
+      "type":1,
+      "price": 155,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/large/xingfushu.jpg"]
+    },
+    {
+      "name": "鸭脚木",
+      "type":1,
+      "price": 155,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/large/yajiaomu.jpg"]
+    },
+    {
+      "name": "摇钱树",
+      "type":1,
+      "price": 155,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/large/yaoqianshu.jpg"]
+    },
+    {
+      "name": "棕竹",
+      "type":1,
+      "price": 155,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/large/zongzhu.jpg"]
+    },
+    {
+      "name": "变叶木",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/bianyemu.jpg"]
+    },
+    {
+      "name": "滴水观音",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/dishuiguanyin.jpg"]
+    },
+    {
+      "name": "广东万年青",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/guangdongwannianqing.jpg"]
+    },
+    {
+      "name": "龟背竹",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/guibeizhu.jpg"]
+    },
+    {
+      "name": "虎皮兰",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/hupilan.jpg"]
+    },
+    {
+      "name": "金叶也门铁",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/jinyeyementie.jpg"]
+    },
+    {
+      "name": "开运竹",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/kaiyunzhu.jpg"]
+    },
+    {
+      "name": "孔雀竹芋",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/kongquezhuyu.jpg"]
+    },
+    {
+      "name": "龙舌兰",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/longshelan.jpg"]
+    },
+    {
+      "name": "龙须铁",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/longxutie.jpg"]
+    },
+    {
+      "name": "螺纹铁",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/luowentie.jpg"]
+    },
+    {
+      "name": "青苹果竹芋",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/qingpingguozhuyu.jpg"]
+    },
+    {
+      "name": "青叶也门铁",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/qingyeyementie.jpg"]
+    },
+    {
+      "name": "一叶兰",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/yiyelan.jpg"]
+    },
+    {
+      "name": "玉树",
+      "type":2,
+      "price": 100,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/medium/yushu.jpg"]
+    },
+    {
+      "name": "矮牵牛",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/aiqianniu.jpg"]
+    },
+    {
+      "name": "斑马万年青",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/banmawannianqing.jpg"]
+    },
+    {
+      "name": "常春藤",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/changchunteng.jpg"]
+    },
+    {
+      "name": "吊兰",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/diaolan.jpg"]
+    },
+    {
+      "name": "吊竹梅",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/diaozhumei.jpg"]
+    },
+    {
+      "name": "虎皮兰",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/hupilan.jpg"]
+    },
+    {
+      "name": "金边吊兰",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/jinbiandiaolan.jpg"]
+    },
+    {
+      "name": "绿萝",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/lvluo.jpg"]
+    },
+    {
+      "name": "鸟巢蕨",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/niaochaojue.jpg"]
+    },
+    {
+      "name": "文竹",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/wenzhu.jpg"]
+    },
+    {
+      "name": "小发财树",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/xiaofacaishu.jpg"]
+    },
+    {
+      "name": "小万年青",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/xiaowannianqing.jpg"]
+    },
+    {
+      "name": "袖珍椰子",
+      "type":3,
+      "price": 80,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/small/xiuzhenyezi.jpg"]
+    },
+    {
+      "name": "大花蕙兰",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/dahuahuilan.jpg"]
+    },
+    {
+      "name": "杜鹃",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/dujuan.jpg"]
+    },
+    {
+      "name": "粉掌",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/fenzhang.jpg"]
+    },
+    {
+      "name": "红掌",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/hongzhang.jpg"]
+    },
+    {
+      "name": "蝴蝶兰",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/hudielan.jpg"]
+    },
+    {
+      "name": "火炬",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/huoju.jpg"]
+    },
+    {
+      "name": "君子兰",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/junzilan.jpg"]
+    },
+    {
+      "name": "仙客来",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/xiankelai.jpg"]
+    },
+    {
+      "name": "蟹爪兰",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/xiezhualan.jpg"]
+    },
+    {
+      "name": "一品红",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/yipinghong.jpg"]
+    },
+    {
+      "name": "长寿花",
+      "type":4,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/flower/changshouhua.jpg"]
+    },
+    {
+      "name": "常春藤",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/changchunteng.jpg"]
+    },
+    {
+      "name": "滴水观音",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/dishuiguanyin.jpg"]
+    },
+    {
+      "name": "吊兰",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/diaolan.jpg"]
+    },
+    {
+      "name": "发财树",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/facaishu.jpg"]
+    },
+    {
+      "name": "粉掌",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/fenzhang.jpg"]
+    },
+    {
+      "name": "风信子",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/fengxinzi.jpg"]
+    },
+    {
+      "name": "富贵竹",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/fuguizhu.jpg"]
+    },
+    {
+      "name": "孔雀竹芋",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/kongquezhuyu.jpg"]
+    },
+    {
+      "name": "绿萝",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/lvluo.jpg"]
+    },
+    {
+      "name": "水仙",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/shuixian.jpg"]
+    },
+    {
+      "name": "文竹",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/wenzhu.jpg"]
+    },
+    {
+      "name": "袖珍椰子",
+      "type":5,
+      "price": 160,
+      "place": "客厅 办公室 走廊 接待前台 庭院 阳台 顶楼",
+      "function": "吸甲醛 净化空气 美观",
+      "desc": "",
+      "info": "",
+      "pic":["http://www.syblyl.com/assets/plants/water/xiuzhenyezi.jpg"]
+    }
+  ],
+  "planttypes": [{"type": 1, "name": "大型植物"}, {"type": 2, "name": "中型植物"}, {"type": 3, "name": "小型植物"}, {"type": 4, "name": "开花植物"}, {"type": 5, "name": "水培植物"}],
+  "pack": [
+    {
+      "name": "基础套餐",
+      "space": "100m²-200m²",
+      "price": 388,
+      "count": 20,
+      "icon": "icon-garden2",
+      "packplants": [
+        {
+          "name": "虎皮兰",
+          "count": 2,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "发财树",
+          "count": 1,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "绿萝",
+          "count": 13,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "万年青",
+          "count": 3,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "百掌",
+          "count": 1,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        }
+      ]
+    },
+    {
+      "name": "标准套餐",
+      "space": "200m²-400m²",
+      "price": 588,
+      "count": 30,
+      "icon": "icon-garden2",
+      "packplants": [
+        {
+          "name": "虎皮兰",
+          "count": 2,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "发财树",
+          "count": 1,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "绿萝",
+          "count": 23,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "万年青",
+          "count": 3,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "百掌",
+          "count": 1,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        }
+      ]
+    },
+    {
+      "name": "热门套餐",
+      "space": "400m²-500m²",
+      "price": 788,
+      "count": 38,
+      "icon": "icon-garden2",
+      "packplants": [
+        {
+          "name": "虎皮兰",
+          "count": 2,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "发财树",
+          "count": 1,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "绿萝",
+          "count": 31,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "万年青",
+          "count": 3,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "百掌",
+          "count": 1,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        }
+      ]
+    },
+    {
+      "name": "品质套餐",
+      "space": "500m²-600m²",
+      "price": 988,
+      "count": 45,
+      "icon": "icon-garden2",
+      "packplants": [
+        {
+          "name": "虎皮兰",
+          "count": 2,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "发财树",
+          "count": 1,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "绿萝",
+          "count": 38,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "万年青",
+          "count": 3,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "百掌",
+          "count": 1,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        }
+      ]
+    },
+    {
+      "name": "高端套餐",
+      "space": "600m²-700m²",
+      "price": 1188,
+      "count": 52,
+      "icon": "icon-garden2",
+      "packplants": [
+        {
+          "name": "虎皮兰",
+          "count": 2,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "发财树",
+          "count": 1,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "绿萝",
+          "count": 45,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "万年青",
+          "count": 3,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        },
+        {
+          "name": "百掌",
+          "count": 1,
+          "pic": "http://www.syblyl.com/assets/plants/large/aozhoushan.jpg"
+        }
+      ]
+    }
+  ],
+  "cases":[
+    {
+      "name":"百乐集团摆租案例",
+      "city":"绍兴上虞",
+      "time":"3年",
+      "place":3000,
+      "why":"一家真正站在客户角度，用户思维的植物租赁公司,从最初的合同谈判，到植物进场，植物养护，每一个环节都很专业。",
+      "pic":"http://www.syblyl.com/assets/plants/large/dishuiguanyin.jpg"
+    },
+    {
+      "name":"恒康集团摆租案例",
+      "city":"绍兴上虞",
+      "time":"3年",
+      "place":900,
+      "why":"一家真正站在客户角度，用户思维的植物租赁公司,从最初的合同谈判，到植物进场，植物养护，每一个环节都很专业。",
+      "pic":"http://www.syblyl.com/assets/plants/large/dishuiguanyin.jpg"
+    },
+    {
+      "name":"恒康集团摆租案例",
+      "city":"绍兴上虞",
+      "time":"3年",
+      "place":900,
+      "why":"一家真正站在客户角度，用户思维的植物租赁公司,从最初的合同谈判，到植物进场，植物养护，每一个环节都很专业。",
+      "pic":"http://www.syblyl.com/assets/plants/large/dishuiguanyin.jpg"
+    },
+    {
+      "name":"恒康集团摆租案例",
+      "city":"绍兴上虞",
+      "time":"3年",
+      "place":900,
+      "why":"一家真正站在客户角度，用户思维的植物租赁公司,从最初的合同谈判，到植物进场，植物养护，每一个环节都很专业。",
+      "pic":"http://www.syblyl.com/assets/plants/large/dishuiguanyin.jpg"
+    },
+    {
+      "name":"恒康集团摆租案例",
+      "city":"绍兴上虞",
+      "time":"3年",
+      "place":900,
+      "why":"一家真正站在客户角度，用户思维的植物租赁公司,从最初的合同谈判，到植物进场，植物养护，每一个环节都很专业。",
+      "pic":"http://www.syblyl.com/assets/plants/large/dishuiguanyin.jpg"
+    }
+  ],
+  "judge":[
+    {
+      "avatar":"http://www.syblyl.com/assets/cases/rent/hall/1.jpg",
+      "name":"唐公馆私房菜",
+      "area": 800,
+      "count": 90,
+      "type":"租赁",
+      "text":"百乐的摆租植物，提升了我们餐厅的整体形象。从2010年开始，我们餐厅的植物就在这边租赁了。百乐很负责，价格很公道。以后也会一直租赁。"
+    },
+    {
+      "avatar":"http://www.syblyl.com/assets/cases/rent/indoor/1.jpg",
+      "name":"陈锋明家",
+      "area": 160,
+      "count": 30,
+      "type":"购买",
+      "text":"新装修了家，害怕甲醛影响健康，我就从百乐选购了30盆植物，放在客厅、卧室、阳台、餐厅、洗手间中。整个家都绿意盎然。"
+    },
+    {
+      "avatar":"http://www.syblyl.com/assets/cases/rent/outdoor/1.jpg",
+      "name":"万升包装厂区",
+      "area": 20000,
+      "count": 1300,
+      "type":"建设",
+      "text":"工厂建设，通过其他的工厂负责人介绍，我们选择了百乐，百乐的施工特别好，而且绿化设计让人耳目一新。大家都特别喜欢。"
+    },
+    {
+      "avatar":"http://www.syblyl.com/assets/cases/rent/reception/9.jpg",
+      "name":"浙江皇马科技股份有限公司",
+      "area": 2000,
+      "count": 188,
+      "type":"租赁",
+      "text":"新搬了公司，办公室需要租赁植物，一下子就想到了百乐，百乐还会上门根据具体场所进行设计，每周养护植物，植物死了还会更换。特别省事。"
+    }
+  ],
+  "homeservice":[
+    {
+      "title": "花卉租赁",
+      "text": "精心推荐的优质绿植套餐设计",
+      "icon": "icon-gift",
+      "link": "/#/rent",
+      "imgs":[
+        {
+          "title": "租赁案例照片",
+          "desc": "广场照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/rent/1.jpg"
+        },
+        {
+          "title": "租赁案例照片",
+          "desc": "公司前台招待照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/rent/2.jpg"
+        },
+        {
+          "title": "租赁案例照片",
+          "desc": "室外大门摆放照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/rent/3.jpg"
+        },
+        {
+          "title": "租赁案例照片",
+          "desc": "大厅照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/rent/4.jpg"
+        },
+        {
+          "title": "租赁案例照片",
+          "desc": "室内客厅照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/rent/5.jpg"
+        },
+        {
+          "title": "租赁案例照片",
+          "desc": "公司室内会议室照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/rent/6.jpg"
+        }
+      ]
+    },
+    {
+      "title": "设计施工",
+      "text": "街道、庭院、商场等绿化施工",
+      "icon": "icon-plant",
+      "link": "/#/design",
+      "imgs":[
+        {
+          "title": "设计施工照片",
+          "desc": "百乐设计施工的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/design/1.jpg"
+        },
+        {
+          "title": "设计施工照片",
+          "desc": "百乐设计施工的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/design/2.jpg"
+        },
+        {
+          "title": "设计施工照片",
+          "desc": "百乐设计施工的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/design/3.jpg"
+        },
+        {
+          "title": "设计施工照片",
+          "desc": "百乐设计施工的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/design/4.jpg"
+        },
+        {
+          "title": "设计施工照片",
+          "desc": "百乐设计施工的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/design/5.jpg"
+        },
+        {
+          "title": "设计施工照片",
+          "desc": "百乐设计施工的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/design/6.jpg"
+        }
+      ]
+    },
+    {
+      "title": "植物销售",
+      "text": "鲜花、绿植百乐店铺线下直销",
+      "icon": "icon-money3",
+      "link": "/#/about",
+      "imgs":[
+        {
+          "title": "植物销售照片",
+          "desc": "百乐园林销售店面的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/sell/1.jpg"
+        },
+        {
+          "title": "植物销售照片",
+          "desc": "百乐园林销售店面的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/sell/2.jpg"
+        },
+        {
+          "title": "植物销售照片",
+          "desc": "百乐园林销售店面的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/sell/3.jpg"
+        },
+        {
+          "title": "植物销售照片",
+          "desc": "百乐园林销售店面的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/sell/4.jpg"
+        },
+        {
+          "title": "植物销售照片",
+          "desc": "百乐园林销售店面的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/sell/5.jpg"
+        },
+        {
+          "title": "植物销售照片",
+          "desc": "百乐园林销售店面的照片",
+          "pic": "http://www.syblyl.com/assets/homeservice/sell/6.jpg"
+        }
+      ]
+    }
+  ],
+  "renttypes":[{"type": 1, "name": "大厅"}, {"type": 2, "name": "走廊"}, {"type": 3, "name": "室内"}, {"type": 4, "name": "室外"}, {"type": 5, "name": "前台"}],
+  "rentcases":[
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/1.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/2.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/3.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/4.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/5.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/6.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/7.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/8.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/9.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/10.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/11.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/12.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/13.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/14.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/15.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/16.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/17.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/18.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/19.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/20.jpg"
+    },
+    {
+      "type":1,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hall/21.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/1.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/2.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/3.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/4.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/5.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/6.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/7.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/8.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/9.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/10.jpg"
+    },
+    {
+      "type":2,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/11.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/hallway/1.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/indoor/2.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/indoor/3.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/indoor/4.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/indoor/5.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/indoor/6.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/indoor/7.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/indoor/8.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/indoor/9.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/indoor/10.jpg"
+    },
+    {
+      "type":3,
+      "pic":"http://www.syblyl.com/assets/cases/rent/indoor/11.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/1.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/2.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/3.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/4.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/5.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/6.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/7.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/8.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/9.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/10.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/11.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/12.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/13.jpg"
+    },
+    {
+      "type":4,
+      "pic":"http://www.syblyl.com/assets/cases/rent/outdoor/14.jpg"
+    },
+    {
+      "type":5,
+      "pic":"http://www.syblyl.com/assets/cases/rent/reception/1.jpg"
+    },
+    {
+      "type":5,
+      "pic":"http://www.syblyl.com/assets/cases/rent/reception/2.jpg"
+    },
+    {
+      "type":5,
+      "pic":"http://www.syblyl.com/assets/cases/rent/reception/3.jpg"
+    },
+    {
+      "type":5,
+      "pic":"http://www.syblyl.com/assets/cases/rent/reception/4.jpg"
+    },
+    {
+      "type":5,
+      "pic":"http://www.syblyl.com/assets/cases/rent/reception/5.jpg"
+    },
+    {
+      "type":5,
+      "pic":"http://www.syblyl.com/assets/cases/rent/reception/6.jpg"
+    },
+    {
+      "type":5,
+      "pic":"http://www.syblyl.com/assets/cases/rent/reception/7.jpg"
+    },
+    {
+      "type":5,
+      "pic":"http://www.syblyl.com/assets/cases/rent/reception/8.jpg"
+    },
+    {
+      "type":5,
+      "pic":"http://www.syblyl.com/assets/cases/rent/reception/9.jpg"
+    }
+  ],
+  "designcases":[
+    {
+      "name":"万升包装厂区设计",
+      "date":"20160125",
+      "pic":"http://www.syblyl.com/assets/cases/design/20160125wansheng/0.jpg",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/design/20160125wansheng/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20160125wansheng/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20160125wansheng/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20160125wansheng/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20160125wansheng/5.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20160125wansheng/6.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20160125wansheng/7.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20160125wansheng/8.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20160125wansheng/9.jpg"}
+      ]
+    },
+    {
+      "name":"沿河村节点设计",
+      "date":"20160908",
+      "pic":"http://www.syblyl.com/assets/cases/design/20160908yanhe/0.jpg",
+      "imgs":[{"img":"http://www.syblyl.com/assets/cases/design/20160908yanhe/1.jpg"}]
+    },
+    {
+      "name":"金鹅山景墙设计",
+      "date":"20160924",
+      "pic":"http://www.syblyl.com/assets/cases/design/20160924jine/0.jpg",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/design/20160924jine/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20160924jine/2.jpg"}
+      ]
+    },
+    {
+      "name":"德清国家粮食仓区",
+      "date":"20161012",
+      "pic":"http://www.syblyl.com/assets/cases/design/20161012deqing/0.jpg",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/design/20161012deqing/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161012deqing/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161012deqing/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161012deqing/4.jpg"}
+      ]
+    },
+    {
+      "name":"东湖绿道提升改造",
+      "date":"20161026",
+      "pic":"http://www.syblyl.com/assets/cases/design/20161026donghu/0.jpg",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/design/20161026donghu/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161026donghu/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161026donghu/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161026donghu/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161026donghu/5.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161026donghu/6.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161026donghu/7.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161026donghu/8.jpg"}
+      ]
+    },
+    {
+      "name":"派出所景观设计",
+      "date":"20161219",
+      "pic":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/0.jpg",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/5.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/6.jpg"}
+      ]
+    },
+    {
+      "name":"北东湖绿道提升设计",
+      "date":"20170106",
+      "pic":"http://www.syblyl.com/assets/cases/design/20170106beidong/0.jpg",
+      "imgs":[
+       {"img":"http://www.syblyl.com/assets/cases/design/20170106beidong/1.jpg"},
+       {"img":"http://www.syblyl.com/assets/cases/design/20170106beidong/2.jpg"},
+       {"img":"http://www.syblyl.com/assets/cases/design/20170106beidong/3.jpg"},
+       {"img":"http://www.syblyl.com/assets/cases/design/20170106beidong/4.jpg"},
+       {"img":"http://www.syblyl.com/assets/cases/design/20170106beidong/5.jpg"}
+      ]
+    },
+    {
+      "name":"三个村入口景墙设计",
+      "date":"20170111",
+      "pic":"http://www.syblyl.com/assets/cases/design/20170111sangecun/0.jpg",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/design/20170111sangecun/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170111sangecun/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170111sangecun/3.jpg"}
+      ]
+    },
+    {
+      "name":"市民健身中心西侧绿道设计",
+      "date":"20170113",
+      "pic":"http://www.syblyl.com/assets/cases/design/20170113jianshen/0.jpg",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/5.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/6.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/7.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/8.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/9.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/10.jpg"}
+      ]
+    },
+    {
+      "name":"高新村平面",
+      "date":"20170118",
+      "pic":"http://www.syblyl.com/assets/cases/design/20170118gaoxin/0.jpg",
+      "imgs":[{"img":"http://www.syblyl.com/assets/cases/design/20170118gaoxin/1.jpg"}]
+    }
+  ],
+  "constructcases":[
+    {
+      "name":"厂区景观",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/5.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/6.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/7.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/8.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/9.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/10.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/11.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/12.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/13.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/14.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/15.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/16.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/17.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/changqu/18.jpg"}
+      ]
+    },
+    {
+      "name":"花境组团景观",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/5.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/6.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/7.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/8.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/9.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/10.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/11.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/12.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/13.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/14.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/15.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/16.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/17.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/18.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/19.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/20.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/21.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/huajing/22.jpg"}
+      ]
+    },
+    {
+      "name":"水池假山",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/5.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/6.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/7.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/8.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/9.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/10.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/11.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/12.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/13.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/14.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/15.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/16.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/17.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/18.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/19.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/20.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/21.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/22.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/23.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/shanshui/24.jpg"}
+      ]
+    },
+    {
+      "name":"特色景墙",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/construct/jingqiang/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/jingqiang/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/jingqiang/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/jingqiang/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/jingqiang/5.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/jingqiang/6.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/jingqiang/7.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/jingqiang/8.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/jingqiang/9.jpg"}
+      ]
+    },
+    {
+      "name":"庭院景观",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/5.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/6.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/7.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/8.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/9.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/10.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/11.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/12.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/13.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/14.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/15.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/16.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/17.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/18.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/19.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/20.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/21.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/22.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/tingyuan/23.jpg"}
+      ]
+    },
+    {
+      "name":"园路铺装",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/5.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/6.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/7.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/8.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/9.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/10.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/11.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/12.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/13.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/14.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/15.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/16.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/17.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/18.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/19.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/20.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/21.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/22.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/23.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/24.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/construct/yuanlu/25.jpg"}
+      ]
+    }
+  ]
+}
