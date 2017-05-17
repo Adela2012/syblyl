@@ -1,6 +1,6 @@
 # baile
 
-> ShangYu Baile Gadern Wap
+> ShangYu Baile Gadern Wap。上虞百乐园林的官方网站，采用vue完成。
 
 ## Environment
 
