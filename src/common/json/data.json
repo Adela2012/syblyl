@@ -978,7 +978,6 @@
       "title": "花卉租赁",
       "text": "精心推荐的优质绿植套餐设计",
       "icon": "icon-gift",
-      "link": "/#/rent",
       "imgs":[
         {
           "title": "租赁案例照片",
@@ -1016,7 +1015,6 @@
       "title": "设计施工",
       "text": "街道、庭院、商场等绿化施工",
       "icon": "icon-plant",
-      "link": "/#/design",
       "imgs":[
         {
           "title": "设计施工照片",
@@ -1054,7 +1052,6 @@
       "title": "植物销售",
       "text": "鲜花、绿植百乐店铺线下直销",
       "icon": "icon-money3",
-      "link": "/#/about",
       "imgs":[
         {
           "title": "植物销售照片",
@@ -1415,16 +1412,25 @@
       ]
     },
     {
-      "name":"派出所景观设计",
+      "name":"派出所景观设计(方案一)",
       "date":"20161219",
-      "pic":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/0.jpg",
+      "pic":"http://www.syblyl.com/assets/cases/design/20161219paichusuo1/0.jpg",
       "imgs":[
-        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/1.jpg"},
-        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/2.jpg"},
-        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/3.jpg"},
-        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/4.jpg"},
-        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/5.jpg"},
-        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo/6.jpg"}
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo1/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo1/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo1/3.jpg"}
+      ]
+    },
+    {
+      "name":"派出所景观设计(方案二)",
+      "date":"20161219",
+      "pic":"http://www.syblyl.com/assets/cases/design/20161219paichusuo2/0.jpg",
+      "imgs":[
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo2/1.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo2/2.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo2/3.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo2/4.jpg"},
+        {"img":"http://www.syblyl.com/assets/cases/design/20161219paichusuo2/5.jpg"}
       ]
     },
     {
@@ -1432,7 +1438,6 @@
       "date":"20170106",
       "pic":"http://www.syblyl.com/assets/cases/design/20170106beidong/0.jpg",
       "imgs":[
-       {"img":"http://www.syblyl.com/assets/cases/design/20170106beidong/1.jpg"},
        {"img":"http://www.syblyl.com/assets/cases/design/20170106beidong/2.jpg"},
        {"img":"http://www.syblyl.com/assets/cases/design/20170106beidong/3.jpg"},
        {"img":"http://www.syblyl.com/assets/cases/design/20170106beidong/4.jpg"},
@@ -1454,7 +1459,6 @@
       "date":"20170113",
       "pic":"http://www.syblyl.com/assets/cases/design/20170113jianshen/0.jpg",
       "imgs":[
-        {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/1.jpg"},
         {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/2.jpg"},
         {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/3.jpg"},
         {"img":"http://www.syblyl.com/assets/cases/design/20170113jianshen/4.jpg"},

@@ -8,7 +8,8 @@
           <li>热线电话：13967526622&nbsp;|&nbsp;18967590205</li>
           <li>邮箱地址：787969084@qq.com</li>
           <li>客服QQ：787969084</li>
-          <li>店铺地址：上虞市花鸟市场5-6店面</li>
+          <li>店铺地址：浙江省绍兴市上虞区上虞市花鸟市场5-6店面</li>
+          <li>花圃地址：浙江省绍兴市上虞区百官街道施家堰村百乐园林基地（近百崧河）</li>
         </ul>
         <div class="img">
           <img src="http://www.syblyl.com/assets/about/contact.jpg" alt="">

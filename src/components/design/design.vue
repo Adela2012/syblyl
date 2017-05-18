@@ -267,7 +267,8 @@
       }
       .dcards{
         .dcard{
-          .dimg{
+          .dimg img{
+             max-width: @w1;
           }
         }
       }
