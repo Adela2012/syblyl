@@ -27,8 +27,8 @@
 
     </div>
     <div class="bottom">
-     <p>Copyright © 2017 上虞百乐园林有限公司(syblyl.com)版权所有</p> 
-     <p>浙B2-201500xx号 浙ICP备120223xx号 </p>
+     <p>Copyright © 2017 绍兴上虞百乐园林有限公司(syblyl.com)版权所有</p> 
+     <!-- <p>浙B2-201500xx号 浙ICP备120223xx号 </p> -->
     </div>
   </div>
 </template>
